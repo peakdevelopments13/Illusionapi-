@@ -1,0 +1,12 @@
+{
+  "name": "illusion-radio-api",
+  "version": "1.0.0",
+  "main": "illusionRadioAPI.js",
+  "scripts": {
+    "start": "node illusionRadioAPI.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.9"
+  }
+}
